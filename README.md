@@ -1,4 +1,4 @@
-<img align="right" width="45.5%" src="images/octocat.png">
+<img align="right" width="40%" src="images/octocat.png">
 
 <h1 align="center">👋🏻 Hi, nice to meet you!</h1>
 
