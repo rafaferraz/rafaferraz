@@ -2,7 +2,7 @@
 
 <h1 align="center">👋🏻 Hi, nice to meet you!</h1>
 
-### 👩🏻‍💻 About me
+## 👩🏻‍💻 About me
 
 - My name is Rafaela Cristina Ferrraz
 - I'm studying Computer Engineering at [Inatel](https://inatel.br/home/)
@@ -14,7 +14,7 @@
     <a href="https://www.linkedin.com/in/rafaelacferraz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-### ⚙ Technologies and Tools
+## ⚙ Technologies and Tools
 
 <div align="center">
     <img height="30" src="https://img.icons8.com/color/344/angularjs.png">
@@ -35,7 +35,7 @@
     <img height="30" src="https://img.icons8.com/color/344/linux--v1.png">
 </div>
 
-### 💻 GitHub Contributions
+## 💻 GitHub Contributions
 
 <div align="center">
     <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=rafaferraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
