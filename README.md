@@ -9,6 +9,8 @@
 - Currently working as a Full Stack Developer at [netLex](https://netlex.io/index.html)
 - Learning about Angular, Typescript, Laravel, Docker and Node.js
 
+![](https://visitor-badge.glitch.me/badge?page_id=rafaferraz.rafaferraz)
+
 <div align="center">
     <a href="https://www.instagram.com/_rafacferraz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/rafaelacferraz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
