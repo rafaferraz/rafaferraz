@@ -10,7 +10,9 @@
 - Learning about Angular, Typescript, Laravel, Docker and Node.js
 
 <div align="center">
+    
 ![](https://visitor-badge.glitch.me/badge?page_id=rafaferraz.rafaferraz)
+    
 </div>
 
 <div align="center">
