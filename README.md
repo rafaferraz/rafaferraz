@@ -24,7 +24,8 @@
     <img height="30" src="https://img.icons8.com/color/344/angularjs.png">
     <img height="30" src="https://img.icons8.com/color/344/typescript.png">
     <img height="30" src="https://img.icons8.com/color/344/sass.png">
-    <img height="30" src="https://img.icons8.com/color/344/nodejs.png">
+    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png">
+    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
     <img height="30" src="https://www.php.net//images/logos/new-php-logo.svg">
     <img height="30" src="https://img.icons8.com/color/344/docker.png">
     <img height="30" src="https://img.icons8.com/color/344/git.png">
