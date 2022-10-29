@@ -10,7 +10,6 @@
 <br>
 
 <div align="center">
-    <img src="https://img.shields.io/github/stars/rafaferraz?color=pink&logo=github&style=plastic">
     <a href="https://github.com/rafaferraz"><img src="https://img.shields.io/github/followers/rafaferraz?color=salmon&logo=github&style=plastic"></a>
     <a href="https://www.instagram.com/_rafacferraz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?color=blueviolet&style=plastic&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/rafaelacferraz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=plastic&logo=linkedin&logoColor=white" target="_blank"></a>
