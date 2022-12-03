@@ -32,6 +32,7 @@
     <img height="30" src="https://img.icons8.com/color/344/javascript--v1.png">
     <img height="30" src="https://img.icons8.com/color/344/html-5--v1.png">
     <img height="30" src="https://img.icons8.com/color/344/css3.png">
+    <img height="30" src="https://img.icons8.com/office/512/react.png">
     <img height="30" src="https://img.icons8.com/color/344/python--v1.png">
     <img height="30" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png">
     <img height="30" src="https://img.icons8.com/color/344/mysql-logo.png">
