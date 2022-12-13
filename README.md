@@ -48,6 +48,9 @@
 <div align="center">
     <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=rafaferraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
     <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaferraz&layout=compact&langs_count=6&theme=dracula"/>
-</div>
 
 ![Snake animation](https://github.com/rafaferraz/rafaferraz/blob/output/github-contribution-grid-snake.svg)
+    
+</div>
+
+
