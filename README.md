@@ -3,8 +3,8 @@
 <h1 align="center">👋🏻 Hi, nice to meet you!</h1>
 
 - My name is **Rafaela Cristina Ferraz**
-- I'm studying Computer Engineering at [Inatel](https://inatel.br/home/)
-- Currently working as a Full Stack Developer at [netLex](https://netlex.io/index.html)
+- Bachelor's degree in Computer Engineering at [Inatel](https://inatel.br/home/)
+- Currently working as a Software Engineer Full Stack Developer at [netLex](https://netlex.io/index.html)
 - Learning about Angular, Typescript, Laravel, Docker and Node.js
 
 <br>
