@@ -1,11 +1,9 @@
-<img align="right" width="30%" src="images/octocat.png">
-
 <h1 align="center">👋🏻 Hi, nice to meet you!</h1>
 
 - My name is **Rafaela Cristina Ferraz**
 - Bachelor's degree in Computer Engineering at [Inatel](https://inatel.br/home/)
 - Currently working as a Software Engineer Full Stack at [netLex](https://netlex.io/index.html)
-- Learning about Angular, Typescript, Laravel, Docker and Node.js
+- Learning about Angular, Typescript, Laravel, Python, Docker, and Node.js
 
 <br>
 
@@ -26,6 +24,7 @@
     <img height="30" src="https://img.icons8.com/color/344/sass.png">
     <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
     <img height="30" src="https://www.php.net//images/logos/new-php-logo.svg">
+    <img height="30" src="https://img.icons8.com/color/344/python.png">
     <img height="30" src="https://img.icons8.com/color/344/docker.png">
     <img height="30" src="https://img.icons8.com/color/344/git.png">
     <img height="30" src="https://img.icons8.com/color/344/javascript--v1.png">
@@ -43,8 +42,5 @@
 
 <div align="center">
     <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=rafaferraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-    <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaferraz&layout=compact&langs_count=6&theme=dracula"/>
-
-![Snake animation](https://github.com/rafaferraz/rafaferraz/blob/output/github-contribution-grid-snake.svg)
-    
+    <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaferraz&layout=compact&langs_count=6&theme=dracula"/>    
 </div>
